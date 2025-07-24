@@ -28,3 +28,4 @@
 - Kusto Query Language (KQL)
 - GeoIP Watchlists (IP Enrichment)
 - Sentinel Workbooks (Visualization)
+"# azure-honeypot-siem" 
