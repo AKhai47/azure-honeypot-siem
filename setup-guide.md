@@ -45,4 +45,4 @@ This is combined with disabling the Windows firewall inside the VM, creating a h
 ## 🌍 4. GeoIP Watchlist & Attack Map
 - Upload `geoip-summarized.csv` as a Sentinel Watchlist
 - Use KQL to enrich IP data with geographic info
-- Build an interactive attack map in Sentinel Workbook
+- Build an interactive attack map in Sentinel Workbook to see final results
