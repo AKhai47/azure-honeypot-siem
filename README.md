@@ -2,14 +2,6 @@
 
 This project simulates real-world attack scenarios in a secure virtual network environment, using Azure resources such as virtual machines, network security groups, and log analytics workspaces. Brute-force attempts against exposed services (e.g., SSH or RDP) are monitored using Azure Defender and Sentinel. Detected threats are analyzed and visualized through dynamic workbooks and custom dashboards powered by KQL. Firewall rules and VNET topology are documented, and a live attack map provides a clear view of malicious activity across regions. This lab demonstrates real-time detection, correlation, and response capabilities for enterprise-grade security operations.
 
-## Table of Contents
-
-- [Demo](#-demo)
-- [Tools & Technologies](#️-tools--technologies)
-- [Virtual Machines](#-virtual-machines)
-- [KQL Queries](queries/)
----
-
 ## Demo
 
 ![Attack Map](assets/attack-map.png)
